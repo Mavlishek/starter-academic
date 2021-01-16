@@ -35,7 +35,7 @@ categories: []
 projects:
   - Open World Games
 image:
-  filename: figure.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Games provide a variety of experiences for players. Currently, research

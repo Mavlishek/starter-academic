@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Paul Cairns
-doi: https://www.sciencedirect.com/science/article/pii/S1875952120301099
+doi: https://doi.org/10.1016/j.entcom.2020.100401
 publication: Entertainment Computing
 abstract: Games provide a variety of experiences for players. Currently,
   research focuses either on games as undifferentiated wholes, or on a

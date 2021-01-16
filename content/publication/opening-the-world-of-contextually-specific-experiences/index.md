@@ -35,7 +35,7 @@ categories: []
 projects:
   - Open World Games
 image:
-  filename: figure2-1-1.png
+  filename: figure.png
   focal_point: Smart
   preview_only: false
 date: 2021-01-16T17:40:24.240Z

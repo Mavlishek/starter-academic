@@ -34,5 +34,5 @@ summary: Ethereum crypto-games are a booming and relatively unexplored area of
   the games industry. In a first effort to scope the field, this paper surveys
   popular crypto-games, which use the Ethereum cryptocurrency, to tease out
   characteristic technical properties and gameplay.
-date: 2021-01-16T20:21:12.764Z
+date: 2019-01-16T20:21:00.000Z
 ---

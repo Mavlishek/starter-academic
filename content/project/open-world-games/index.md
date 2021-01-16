@@ -5,8 +5,7 @@ draft: false
 featured: false
 tags:
   - open world games
-categories:
-  - Open Worlds
+categories: []
 external_link: project/open-world-games
 links:
   - url: https://twitter.com/ngjhughes

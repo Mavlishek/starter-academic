@@ -5,6 +5,7 @@ publication_types:
 authors:
   - admin
   - Paul Cairns
+doi: https://www.sciencedirect.com/science/article/pii/S1875952120301099
 publication: Entertainment Computing
 abstract: Games provide a variety of experiences for players. Currently,
   research focuses either on games as undifferentiated wholes, or on a
@@ -30,10 +31,11 @@ tags:
   - Open World Games
   - Thematic Analysis
   - Player Experience
+categories: []
 projects:
   - Open World Games
 image:
-  filename: featured
+  filename: figure2-1-1.png
   focal_point: Smart
   preview_only: false
 date: 2021-01-16T17:40:24.240Z

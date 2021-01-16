@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: York
     date_start: '2021-01-01'
-    date_end: '2021-03-01'
+    date_end: ''
     description: |2- Research project. Responsibilities include:
         
         * Policy & Literature Search

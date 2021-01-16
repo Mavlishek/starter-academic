@@ -28,8 +28,7 @@ experience:
     location: York
     date_start: '2021-01-01'
     date_end: '2021-03-31'
-    description: |2-
-    Research project. Responsibilities include:
+    description: |2- Research project. Responsibilities include:
         
         * Policy & Literature Search
         * Designing & Running Workshops

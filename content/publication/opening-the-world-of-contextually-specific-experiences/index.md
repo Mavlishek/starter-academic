@@ -36,7 +36,7 @@ projects:
   - Open World Games
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 summary: Games provide a variety of experiences for players. Currently, research
   focuses either on games as undifferentiated wholes, or on a feature-level

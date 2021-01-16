@@ -34,9 +34,6 @@ email: sch538@york.ac.uk
 superuser: true
 highlight_name: false
 ---
+Nathan Hughes is a PhD student at the University of York, as part of the Intelligent Games and Games Intelligence (IGGI) centre for doctoral training. His work focuses on how players make decisions in open world games, and what influences this process. He has experience with both qualitative and quantitative methods, including thematic analysis, content analysis, ANOVAs and factor analysis.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHCV2020.pdf" "newtab" >}}resumé{{< /staticref >}}.

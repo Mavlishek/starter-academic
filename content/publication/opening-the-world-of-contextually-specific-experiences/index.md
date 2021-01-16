@@ -1,5 +1,5 @@
 ---
-title: Opening the World of Contextually-Specific Experiences
+title: Opening the World of Contextually-Specific Player Experiences
 publication_types:
   - "2"
 authors:

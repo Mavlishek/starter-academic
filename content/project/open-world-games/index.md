@@ -4,9 +4,9 @@ date: 2021-01-16T17:57:43.380Z
 draft: false
 featured: false
 tags:
-  - Open World Games
+  - owg
 categories: []
-external_link: test
+external_link: project/owg
 links:
   - url: https://twitter.com/ngjhughes
     name: Follow

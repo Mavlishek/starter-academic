@@ -41,5 +41,5 @@ experience:
     location: 'York'
     date_start: '2020-10-01'
     date_end: '2020-12-31'
-    description: Transcribed online lectures for multiple Computer Science modules.
+    description: 'Transcribed online lectures for multiple Computer Science modules.'
 ---

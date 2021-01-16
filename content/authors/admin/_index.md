@@ -24,7 +24,7 @@ organizations:
     url: https://www.cs.york.ac.uk/
 education:
   courses:
-    - course: PhD in Intelligent Games and Games Intelligence (IGGI)
+    - course: PhD in Computer Science
       institution: University of York
       year: ""
     - course: Master of Psychology (MPsych)

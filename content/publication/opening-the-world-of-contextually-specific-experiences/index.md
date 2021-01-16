@@ -38,5 +38,14 @@ image:
   filename: figure.png
   focal_point: Smart
   preview_only: false
+summary: Games provide a variety of experiences for players. Currently, research
+  focuses either on games as undifferentiated wholes, or on a feature-level
+  basis where findings are difficult to generalise. However, specific gaming
+  experiences cannot be explained from these approaches. Open world games in
+  particular are a popular game type known for giving players high levels of
+  choice over what they do, thus enabling uniquely different experiences.
+  Current approaches cannot capture what about this gaming experience players
+  enjoy or why. To do so requires a ‘contextually-specific’ approach,
+  demonstrated in this paper.
 date: 2021-01-16T17:40:24.240Z
 ---

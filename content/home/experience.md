@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Trainee
-    company: University of York
+  - title: 'Research Trainee'
+    company: 'University of York'
     company_url: ''
-    location: York
+    location: 'York'
     date_start: '2021-01-01'
     date_end: ''
     description: >-
@@ -35,10 +35,10 @@ experience:
         * Designing & Running Workshops
         * Methodology Design
         
-  - title: Video Transcriber
-    company: University of York
+  - title: 'Video Transcriber'
+    company: 'University of York'
     company_url: ''
-    location: York
+    location: 'York'
     date_start: '2020-10-01'
     date_end: '2020-12-31'
     description: Transcribed online lectures for multiple Computer Science modules.

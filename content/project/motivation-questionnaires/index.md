@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - Motivation
+  - Games
 categories:
   - Motivation
 external_link: /project/motivation-questionnaires

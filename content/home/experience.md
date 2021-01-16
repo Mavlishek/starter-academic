@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: York
     date_start: '2021-01-01'
-    date_end: '2021-31-03'
+    date_end: '2021-03-31'
     description: |2-
         Research project. Responsibilities include:
         
@@ -40,6 +40,6 @@ experience:
     company_url: ''
     location: York
     date_start: '2020-10-01'
-    date_end: '2020-12-31'
+    date_end: '2020-31-12'
     description: Transcribed online lectures for multiple Computer Science modules.
 ---

@@ -28,7 +28,9 @@ experience:
     location: York
     date_start: '2021-01-01'
     date_end: ''
-    description: |2- Research project. Responsibilities include:
+    description: >-
+        Research project. Responsibilities include:
+    
         * Policy & Literature Search
         * Designing & Running Workshops
         * Methodology Design
@@ -38,6 +40,6 @@ experience:
     company_url: ''
     location: York
     date_start: '2020-10-01'
-    date_end: '2020-11-01'
+    date_end: '2020-12-31'
     description: Transcribed online lectures for multiple Computer Science modules.
 ---

@@ -21,11 +21,11 @@ feature:
   icon: brain
   icon_pack: fas
   name: Psychology
- - description: Quant & Qual
+- description: Quant & Qual
   icon: chart-line
   icon_pack: fas
   name: Data Analysis
- - description: Analysis & Data Vis
+- description: Analysis & Data Vis
   icon: r-project
   icon_pack: fab
   name: RStudio

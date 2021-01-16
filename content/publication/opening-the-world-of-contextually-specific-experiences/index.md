@@ -30,6 +30,8 @@ tags:
   - Open World Games
   - Thematic Analysis
   - Player Experience
+projects:
+  - Open World Games
 image:
   filename: featured
   focal_point: Smart

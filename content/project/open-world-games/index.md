@@ -5,6 +5,7 @@ draft: false
 featured: true
 tags:
   - open world games
+  - Games
 categories: []
 external_link: project/open-world-games
 links:

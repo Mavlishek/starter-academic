@@ -2,7 +2,7 @@
 title: Open World Games
 date: 2021-01-16T17:57:43.380Z
 draft: false
-featured: false
+featured: true
 tags:
   - open world games
 categories: []

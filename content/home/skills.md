@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: Decision-Making
+- description: Decision-Making | Goal Pursuit | Motivation
   icon: brain
   icon_pack: fas
-  name: Psychology
-- description: Quant & Qual
+  name: Cognitive Psychology
+- description: Quantitative & Qualitative
   icon: chart-line
   icon_pack: fas
   name: Data Analysis
@@ -29,6 +29,18 @@ feature:
   icon: r-project
   icon_pack: fab
   name: RStudio
+- description: Design | Distribution | Analysis
+  icon: list
+  icon_pack: fas
+  name: Questionnaires
+- description: Freelance Digital Artist
+  icon: pencil-alt
+  icon_pack: fas
+  name: Illustrator
+- description: Novel Writer
+  icon: keyboard
+  icon_pack: fas
+  name: Creative Writing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -7,6 +7,9 @@ summary: I had to move from Psychology to Computer Science to appreciate the
   importance of asking people, “Why”?
 draft: false
 featured: false
+authors:
+  -admin
+share: true
 tags:
   - Qualitative Studies
 categories:

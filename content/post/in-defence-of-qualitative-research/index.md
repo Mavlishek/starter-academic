@@ -8,7 +8,8 @@ summary: I had to move from Psychology to Computer Science to appreciate the
 draft: false
 featured: false
 authors:
-  -admin
+  - admin
+  - ""
 share: true
 tags:
   - Qualitative Studies

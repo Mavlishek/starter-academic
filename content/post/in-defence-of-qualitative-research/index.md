@@ -3,6 +3,8 @@ title: In Defence of Qualitative Research
 subtitle: I had to move from Psychology to Computer Science to appreciate the
   importance of asking people, “Why”?
 date: 2021-01-17T16:18:04.332Z
+share: true
+comments: true
 summary: I had to move from Psychology to Computer Science to appreciate the
   importance of asking people, “Why”?
 draft: false

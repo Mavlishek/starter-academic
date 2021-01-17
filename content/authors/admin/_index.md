@@ -36,6 +36,6 @@ email: sch538@york.ac.uk
 superuser: true
 highlight_name: false
 ---
-Nathan Hughes is a PhD student at the University of York, as part of the Intelligent Games and Games Intelligence (IGGI) centre for doctoral training. His work focuses on how players make decisions in open world games, and what influences this process. He has experience with both qualitative and quantitative methods, including thematic analysis, content analysis, ANOVAs and factor analysis.
+Nathan is a PhD student at the University of York, as part of the Intelligent Games and Games Intelligence (IGGI) centre for doctoral training. His work focuses on how players make decisions in open world games, and what influences this process. He has experience with both qualitative and quantitative methods, applying them within games and other HCI settings (such as autonomous vehicles and cryptocurrency).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHCV2020.pdf" "newtab" >}}CV{{< /staticref >}}.

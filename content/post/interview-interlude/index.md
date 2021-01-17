@@ -8,8 +8,10 @@ authors:
   - ""
 tags:
   - Research Woes
+  - Qualitative Studies
 categories:
   - Research
+  - Open Worlds
 projects:
   - Open World Games
 image:

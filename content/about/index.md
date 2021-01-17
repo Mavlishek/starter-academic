@@ -5,6 +5,10 @@ links:
     icon: twitter
     name: Follow
     url: 'https://twitter.com/ngjhughes'
+  - icon_pack: fas
+    icon: envelope
+    name: Email
+    url: 'ngjhughes@gmail.com'
 ---
 > “And it’s not about the place you go, it’s what you’re learning
   And it’s all about the way you grow, along the journey”

@@ -7,7 +7,7 @@ tags:
   - open world games
   - Games
 categories: []
-external_link: /open-world-games
+external_link: project/open-world-games
 links:
   - url: https://twitter.com/ngjhughes
     name: Follow

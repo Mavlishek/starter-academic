@@ -1,13 +1,13 @@
 ---
-widget: publication
+widget: pages
 widget_id: publication
 headless: true
 weight: 70
 title: Publications
 active: true
+content:
+  page_type: publication
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+  view: 1
+  
 ---

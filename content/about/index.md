@@ -8,7 +8,7 @@ links:
 ---
 > “And it’s not about the place you go, it’s what you’re learning
   And it’s all about the way you grow, along the journey”
-> - _Lost in Translation, Threshold_
+> _Lost in Translation, Threshold_
 
 My name is Nathan and I’m a PhD student at the University of York. Though technically in the Department of Computer Science, my research is part of the EPSRC funded Intelligent Games and Games Intelligence (IGGI) program, of which I’m in the second year of. 
 

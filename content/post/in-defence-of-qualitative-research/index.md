@@ -5,11 +5,6 @@ subtitle: I had to move from Psychology to Computer Science to appreciate the
 date: 2021-01-17T16:18:04.332Z
 summary: I had to move from Psychology to Computer Science to appreciate the
   importance of asking people, “Why”?
-  
-profile: true
-share: true
-comments: true
-reading_time: true
 draft: false
 featured: false
 tags:

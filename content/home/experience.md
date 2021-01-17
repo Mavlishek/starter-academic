@@ -51,7 +51,7 @@ experience:
     description: |2-
         Researched the impact of autonomous vehicles on driving behaviour, using Virtual Reality (VR) techonology. Responsibilities included:
         
-        * Ran over 100 participants with up to 4 simultaneous participants
+        * Running over 100 participants with up to 4 simultaneous participants
         * Exploratory data analysis
         * Resolving coding errors
 ---

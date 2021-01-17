@@ -21,8 +21,8 @@ feature:
   icon: brain
   icon_pack: fas
   name: Cognitive Psychology
-- description: Quantitative & Qualitative
-  icon: chart-line
+- description: Quantitative | Qualitative | Mixed Methods
+  icon: chart-bar
   icon_pack: fas
   name: Data Analysis
 - description: Analysis & Visualisation
@@ -37,7 +37,7 @@ feature:
   icon: pencil-alt
   icon_pack: fas
   name: Illustrator
-- description: Novel Writer
+- description: Fantasy Novel Writer
   icon: keyboard
   icon_pack: fas
   name: Creative Writing

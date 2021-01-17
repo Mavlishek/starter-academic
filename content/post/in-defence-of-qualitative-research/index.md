@@ -3,8 +3,14 @@ title: In Defence of Qualitative Research
 subtitle: I had to move from Psychology to Computer Science to appreciate the
   importance of asking people, “Why”?
 date: 2021-01-17T16:18:04.332Z
+summary: I had to move from Psychology to Computer Science to appreciate the
+  importance of asking people, “Why”?
 draft: false
 featured: false
+tags:
+  - Qualitative Studies
+categories:
+  - Research
 image:
   filename: featured
   focal_point: center
@@ -18,8 +24,6 @@ image:
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 Quantitative vs Qualitative. I remember the debate from my A level Psychology classes back in college. Regurgitating the rote-learnt answer for the pros and cons of both, robotically writing out my answer to be as concise as possible. How quant is reliable but not necessarily valid (sure, 83% of your sample said they liked the green option, but does it matter if you don’t know why?), how qual gives rich data but can be subjective (maybe a participant said they think green is soothing, but is that just them, or everyone?). The answer always led to a combination of the two being the best solution, where you can be sure you’ve found objective evidence of a trend but also a better chance of understanding it (e.g. people responded most strongly to green because it reminds them of growth). The full marks came and went and I thought little of it.
@@ -31,8 +35,6 @@ Analysis of genes to uncover what might increase the risk of depression, using e
 After my 4 happy years pursuing Psychology, I shifted gears a little to focus on gaming behaviour, which required a sidestep closer to the field of Computer Science. I was lucky enough to find a PhD course looking specifically at gaming, and I chased it with a burning passion. This is where I am now, currently in my first year of the course. I’m still very much on the people side of things, perhaps i’ll never be able to truly forget my roots. Landing squarely in the middle ground of the two fields at Human-Computer Interaction (HCI), I found a new home, but also a very foreign landscape.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 

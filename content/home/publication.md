@@ -10,5 +10,5 @@ content:
 design:
   view: 1
   background:
-    color: "#dad8c5"
+    color: rgba(255, 255, 255, 0)
 ---

@@ -36,7 +36,7 @@ feature:
 - description: Freelance Digital Artist
   icon: pencil-alt
   icon_pack: fas
-  name: Illustrator
+  name: Illustration
 - description: Fantasy Novel Writer
   icon: keyboard
   icon_pack: fas

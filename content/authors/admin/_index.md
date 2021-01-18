@@ -1,6 +1,7 @@
 ---
 title: Nathan Hughes
 role: PhD Student in Computer Science
+avatar_filename: avatar.jpg
 bio: Decision-making in open world games.
 interests:
   - Human Computer Interaction

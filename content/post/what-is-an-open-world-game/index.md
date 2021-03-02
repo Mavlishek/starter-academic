@@ -2,6 +2,7 @@
 title: What IS an 'Open World' Game?
 subtitle: The age old debate, perhaps answered?
 date: 2021-03-02T09:41:08.509Z
+summary: ""
 draft: false
 featured: false
 authors:
@@ -37,6 +38,8 @@ Last year, I asked players of open world games to talk to me about their experie
 In summary, I found there to be 5 themes that interlock together to explain what the open world experience is, and how it’s enabled. In this post, I’ll go through each in turn and explain what they mean, with examples of where you can see them in games. I found it helpful to use the example of a suspension bridge to illustrate how the themes work together; sadly my reviewers did not agree. Unfortunately for them, this is my blog so I can use it all I like (#viva la bridge!). Here it is in all its glory:
 
 ![](featured.png "The themes of an open world game, imagined as a suspension bridge.")
+
+<br/>
 
 We’ll start with the **first theme**, represented as the orange ‘anchors’ of the bridge – *the player is situated to scale within the world*. Generally speaking, this theme states an open world must allow the player to exist and move around the world as if they were a part of it. This allows the exclusion of building games such as Cities:Skylines where the player is an overseer of sorts, manipulating the world but not being within it. This theme is the bridge anchors as it is the first step; the first checklist box to tick before looking further at a gaming experience.
 

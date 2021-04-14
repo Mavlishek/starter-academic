@@ -1,5 +1,5 @@
 ---
-title: What IS an 'Open World' Game?
+title: What IS an Open World Game?
 subtitle: The age old debate, perhaps answered?
 date: 2021-03-02T09:41:08.509Z
 summary: ""

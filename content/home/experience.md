@@ -27,9 +27,9 @@ experience:
     company_url: ''
     location: 'York'
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2021-05-31'
     description: |2-
-        Research project. Responsibilities include:
+        Research project in collaboration with the National Air Traffic Service (NATS) on how to introduce automated decision-making tools to Air Traffic Control. Responsibilities include:
     
         * Policy & Literature Search
         * Designing & Running Workshops

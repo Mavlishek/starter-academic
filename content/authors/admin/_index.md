@@ -33,7 +33,7 @@ education:
     - course: Master of Psychology (MPsych)
       institution: University of York
       year: 2018
-email: sch538@york.ac.uk
+email: nathan.hughes@york.ac.uk
 superuser: true
 highlight_name: false
 ---

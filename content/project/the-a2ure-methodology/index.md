@@ -8,7 +8,7 @@ tags:
   - Collaboration
   - ATC
   - ""
-external_link: /project/A2URE
+external_link: /project/the-a2ure-methodology/
 image:
   filename: featured
   focal_point: Smart

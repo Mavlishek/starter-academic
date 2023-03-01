@@ -1,12 +1,11 @@
 ---
 title: Nathan Hughes
-role: PhD Student in Computer Science
+role: Research Associate in Computer Science
 avatar_filename: avatar.jpg
-bio: Decision-making in open world games.
+bio: The experience of decision-making in HCI
 interests:
   - Human Computer Interaction
   - Decision Making
-  - Open World Games
   - Player Experience
   - Factor Analysis
 social:
@@ -37,6 +36,6 @@ email: nathan.hughes@york.ac.uk
 superuser: true
 highlight_name: false
 ---
-Nathan is a PhD student at the University of York, as part of the Intelligent Games and Games Intelligence (IGGI) centre for doctoral training. His work focuses on how players make decisions in open world games, and what influences this process. He has experience with both qualitative and quantitative methods, applying them within games and other HCI settings (such as autonomous vehicles and cryptocurrency).
+Nathan is a Research Associate at the University of York. His work focuses on designing human-centred explainable AI in healthcare. He has experience with both qualitative and quantitative methods, applying them within a multitude of HCI settings (including games, autonomous vehicles, and air traffic control).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHCV2020.pdf" "newtab" >}}CV{{< /staticref >}}.

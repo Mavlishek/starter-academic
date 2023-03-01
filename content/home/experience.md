@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: 'Research Trainee'
+    company: 'University of York'
+    company_url: ''
+    location: 'York'
+    date_start: '2022-05-01'
+    date_end: '2023-02-28'
+    description: |2-
+        Research project in collaboration with the National Air Traffic Service (NATS) on how to use Wizard of Oz techniques to prototype automated decision-making tools in Air Traffic Control. Responsibilities include:
+    
+        * Interviewing Users & Stakeholders
+        * Designing & Running Workshops
+        * Analysing Mixed Methods Data
+
   - title: 'Research Trainee'
     company: 'University of York'
     company_url: ''

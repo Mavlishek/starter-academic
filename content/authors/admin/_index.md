@@ -1,6 +1,6 @@
 ---
 title: Nathan Hughes
-role: Research Associate in Computer Science
+role: Research Associate in HCI for Clinical AI
 avatar_filename: avatar.jpg
 bio: The experience of decision-making in HCI
 interests:

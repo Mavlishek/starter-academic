@@ -30,7 +30,8 @@ abstract: There are many questionnaires to assess player motivation, originating
   allow for more cohesive research synthesis.
 draft: false
 featured: false
-projects: []
+projects:
+  - Motivation Questionnaires
 image:
   filename: featured
   focal_point: Smart
